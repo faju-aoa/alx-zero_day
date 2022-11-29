@@ -1,0 +1,6 @@
+#!/bin/bash
+<<<<<<< HEsD
+echo "ALX School is so cool!"
+=======
+echo "Achool"
+>>>>>>> update_script
